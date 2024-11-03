@@ -1,4 +1,4 @@
-# React Dice Game
+# Dice Game
 
 ## Proje Özeti
 React Dice Game, iki oyuncunun sırayla zar attığı basit bir oyun uygulamasıdır. Oyuncuların her biri bir kere zar atar ve sonuçlar karşılaştırılarak kazanan belirlenir. Kullanıcı, Player 1 için adını girebilirken Player 2 ismi otomatik olarak "Player 2" olarak belirlenmiştir. 
