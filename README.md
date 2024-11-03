@@ -8,3 +8,5 @@ React Dice Game, iki oyuncunun sırayla zar attığı basit bir oyun uygulaması
 - **JavaScript**: Uygulama mantığı ve etkileşim için.
 - **CSS**: Uygulamanın stil ve düzeni için.
 
+## Canlı Link 
+https://my-dice-gamee.netlify.app/
